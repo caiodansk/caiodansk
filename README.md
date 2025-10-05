@@ -1,107 +1,54 @@
-# Caio Vilante | Full Stack Developer & Project Manager
+🧑‍💻 Caio Vilante
 
-**Apaixonado por tecnologia • Fundador da Developer Community • Desenvolvimento Web & Gestão de Projetos**
+Programação é arte ✨
 
----
+🚀 Sobre mim
 
-[![Gmail](https://img.shields.io/badge/caiovilante123@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:caiovilante123@gmail.com) [![Instagram](https://img.shields.io/badge/@developer_communityy-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/developer_communityy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/caiovilante) [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-007ACC?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://developercommunity.example)
+Sou desenvolvedor com foco em soluções práticas e eficientes. Tenho experiência em front-end, back-end e automação de processos, sempre buscando unir tecnologia e simplicidade para entregar resultados reais.
 
----
+💡 Apaixonado por inovação, ensino e desenvolvimento de comunidades tech.
+🎯 Fundador da Developer Community.
+📍 Atualmente estudando Gestão de TI (Estácio) e Técnico em Informática para Internet (SENAC).
 
-## 🔭 Sobre mim
+🧩 Projetos em Destaque
+🖨️ Gerador de Relatório Técnico (EXE)
 
-Sou desenvolvedor com foco em **front-end** e **gestão de projetos**, fundador da **Developer Community**. Trabalho com aplicações web modernas usando React no front, Node.js/NestJS no back e bancos relacionais com PostgreSQL. Gosto de transformar ideias em produtos escaláveis e orientar times full‑stack para entregar valor.
+Aplicativo executável para gerar relatórios técnicos em PDF de forma automatizada e intuitiva.
+🔹 Linguagens: Python, Streamlit, ReportLab
+🔹 Foco: Agilidade na geração de relatórios técnicos
 
-> Estudante de Gestão de TI e com formação técnica em Informática para Internet — sempre em busca de aprender novas ferramentas e boas práticas.
+📊 Clonador de Dados
 
----
+Aplicação web que permite consultar planilhas de forma rápida e fácil, otimizando o processo de leitura e visualização de dados.
+🔹 Tecnologias: JavaScript, Vite, React, Pandas
+🔹 Foco: Velocidade e usabilidade em consultas de planilhas
 
-## 🛠️ Tecnologias & Ferramentas
+🛠️ Tecnologias e Ferramentas
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
----
 
-## 📊 Métricas (automáticas)
 
-<!-- GitHub Readme Stats -->
 
-<table>
-  <tr>
-    <td valign="top">
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiodansk\&show_icons=true\&theme=dark\&count_private=true\&hide_border=true)
 
-```
-</td>
-<td valign="top">
-```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiodansk\&layout=compact\&theme=dark\&hide_border=true)
 
-```
-</td>
-```
 
-  </tr>
-</table>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=caiodansk\&theme=dark\&hide_border=true)
+</div>
+📈 Estatísticas do GitHub
+<div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=caiodansk\&theme=dark\&no-frame=true)
 
----
 
-## ⭐ Projetos em destaque
 
-### EstacionaBem — Monitoramento de estacionamentos públicos
+</div>
+🌎 Conecte-se comigo
 
-**Stack:** React, Node.js, Docker
+📧 caiovilante123@gmail.com
 
-> Projeto de monitoramento de vagas com modelo freemium e anúncios como fonte primária de receita.
+📱 @developer_communityy
 
-**Repo:** [caiodansk/estacionabem](https://github.com/caiodansk/estacionabem)
-
----
-
-### Ecoomece — E‑commerce B2B/B2C (MVP)
-
-**Stack:** React, Node.js, PostgreSQL
-
-> Gerenciamento de SKUs, sincronização com marketplaces e plano de integrar IA para leitura de manuais.
-
-**Repo:** [caiodansk/ecoomece](https://github.com/caiodansk/ecoomece)
-
----
-
-### ServFinder — Plataforma de serviços
-
-**Stack:** React, Vite, Swiper
-
-> Busca e listagem de profissionais/serviços, com foco em UX e responsividade.
-
-**Repo:** [caiodansk/servfinder](https://github.com/caiodansk/servfinder)
-
----
-
-## 📂 Repositórios que recomendo fixar (pinar)
-
-* `EstacionaBem` — Produto principal (MVP + roadmap).
-* `Ecoomece` — E‑commerce com integração marketplace.
-* `ServFinder` — Projeto de front-end responsivo.
-* `Developer-Community` — Repositório da comunidade com eventos e materiais.
-
----
-
-## ✉️ Contato
-
-* Email: [caiovilante123@gmail.com](mailto:caiovilante123@gmail.com)
-* Instagram: [@developer_communityy](https://instagram.com/developer_communityy)
-* LinkedIn: [linkedin.com/in/caiovilante](https://linkedin.com/in/caiovilante)
-* Portfólio: [developercommunity.example](https://developercommunity.example)
-
----
-
-*Feito com ⚡ por Caio Vilante — estilo Developer Community (preto / azul / branco).*
+💼 LinkedIn
